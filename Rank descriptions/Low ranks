@@ -26,29 +26,32 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="index.html">Home</a></li>
+								<li class="current"><a href="index.html">Home</a></li>
 								<li>
-									<a href="#">Dropdown</a>
+									<a href="#">Contacts</a>
 									<ul>
-										<li><a href="#">Lorem ipsum</a></li>
-										<li><a href="#">Magna veroeros</a></li>
-										<li><a href="#">Etiam nisl</a></li>
-										<li>
-											<a href="#">Sed consequat</a>
+										<li><a href="founders.html">Founders</a></li>
+										<li><a href="directors.html">Directors</a></li>
+										<li><a href="departments.html">Department members</a></li>
+															<li>
+											<a href="#">Job Descriptions</a>
 											<ul>
-												<li><a href="#">Lorem dolor</a></li>
-												<li><a href="#">Amet consequat</a></li>
-												<li><a href="#">Magna phasellus</a></li>
-												<li><a href="#">Etiam nisl</a></li>
-												<li><a href="#">Sed feugiat</a></li>
+												<li><a href="#">Low Ranks</a></li>
+												<li><a href="#">Midle Ranks</a></li>
+												<li><a href="#">High Ranks</a></li>
+												<li><a href="#">Senior High Ranks</a></li>
+												<li><a href="#">Noted customer, allied representative</a></li>
 											</ul>
 										</li>
-										<li><a href="#">Nisl tempus</a></li>
+										<li><a href="#">Promotion Guide</a></li>
 									</ul>
 								</li>
-								<li><a href="left-sidebar.html">Left Sidebar</a></li>
-								<li><a href="right-sidebar.html">Right Sidebar</a></li>
-								<li class="current"><a href="no-sidebar.html">No Sidebar</a></li>
+											
+										
+								
+								<li><a href="left-sidebar.html">In-store tasks</a></li>
+								<li><a href="right-sidebar.html">Policies</a></li>
+								<li><a href="no-sidebar.html">Training guide</a></li>
 							</ul>
 						</nav>
 
